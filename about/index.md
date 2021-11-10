@@ -1,4 +1,3 @@
-`
 <img class="img--full-width img--left img--grow" loading="lazy" src="/img/blog/sreeram.jpg" alt="sreeram padmanabhan" title="sreeram padmanabhan" />
 
 ## Hello, World! 👋
