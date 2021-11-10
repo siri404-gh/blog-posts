@@ -88,7 +88,13 @@
       },
       {
         "title": "Courses",
-        "url": "/courses"
+        "url": "/courses",
+         "links": [
+          {
+            "title": "Programming Interview Questions",
+            "url": "/courses/programming-interview-questions"
+          }
+        ]
       }
     ]
   }
