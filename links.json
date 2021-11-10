@@ -1,100 +1,128 @@
 {
-    "links": [
-      {
-        "title": "About",
-        "url": "/about",
-        "links": [
-          {
-            "title": "My professional journey",
-            "url": "/about/my-professional-journey"
-          }
-        ]
-      },
-      {
-        "title": "Blog",
-        "url": "/blog",
-        "links": [
-          {
-            "title": "Life in India, Germany and UK",
-            "url": "/blog/life-in-de-uk"
-          },
-          { "title": "The past decade", "url": "/blog/the-past-decade" },
-          { "title": "Moving to Germany", "url": "/blog/moving-to-germany" },
-          {
-            "title": "Indians in Britian",
-            "url": "/blog/indians-in-britain"
-          },
-          {
-            "title": "Moving out of Germany",
-            "url": "/blog/moving-out-of-germany"
-          },
-          { "title": "Next big step in life", "url": "/blog/next-big-step" },
-          {
-            "title": "First month in Bumble",
-            "url": "/blog/first-month-in-bumble"
-          },
-          {
-            "title": "Next adventure - Flying",
-            "url": "/blog/learning-to-fly"
-          },
-          {
-            "title": "Using the web to declutter life",
-            "url": "/blog/using-web-to-declutter-life"
-          },
-          {
-            "title": "View from my balcony in India",
-            "url": "/blog/view-from-my-balcony"
-          },
-          {
-            "title": "The best photo I ever shot",
-            "url": "/blog/best-photo-i-ever-shot"
-          },
-          {
-            "title": "View from my office desk",
-            "url": "/blog/view-from-my-desk"
-          },
-          {
-            "title": "Paragliding at Interlaken",
-            "url": "/blog/paragliding-at-interlaken"
-          },
-          { "title": "Top of Scotland", "url": "/blog/top-of-scotland" },
-          {
-            "title": "Shard from the tower",
-            "url": "/blog/view-of-the-shard"
-          }
-        ]
-      },
-      {
-        "title": "Tech",
-        "url": "/tech",
-        "links": [
-          {
-            "title": "The biggest career landmine",
-            "url": "/tech/career-landmine"
-          },
-          {
-            "title": "What a Web Developer should know",
-            "url": "/tech/what-a-web-developer-should-know"
-          },
-          {
-            "title": "Comparison of cloud providers",
-            "url": "/tech/comparing-cloud-providers"
-          },
-          {
-            "title": "Tech stack powering my website",
-            "url": "/tech/tech-stack-powering-my-website"
-          }
-        ]
-      },
-      {
-        "title": "Courses",
-        "url": "/courses",
-         "links": [
-          {
-            "title": "Programming Interview Questions",
-            "url": "/courses/programming-interview-questions"
-          }
-        ]
-      }
-    ]
-  }
+  "links": [
+    {
+      "title": "About",
+      "url": "/about",
+      "links": [
+        {
+          "title": "My professional journey",
+          "url": "/about/my-professional-journey"
+        }
+      ]
+    },
+    {
+      "title": "Blog",
+      "url": "/blog",
+      "links": [
+        {
+          "title": "Life in India, Germany and UK",
+          "url": "/blog/life-in-de-uk"
+        },
+        {
+          "title": "The past decade",
+          "url": "/blog/the-past-decade"
+        },
+        {
+          "title": "Moving to Germany",
+          "url": "/blog/moving-to-germany"
+        },
+        {
+          "title": "Indians in Britian",
+          "url": "/blog/indians-in-britain"
+        },
+        {
+          "title": "Moving out of Germany",
+          "url": "/blog/moving-out-of-germany"
+        },
+        {
+          "title": "Next big step in life",
+          "url": "/blog/next-big-step"
+        },
+        {
+          "title": "First month in Bumble",
+          "url": "/blog/first-month-in-bumble"
+        },
+        {
+          "title": "Next adventure - Flying",
+          "url": "/blog/learning-to-fly"
+        },
+        {
+          "title": "Using the web to declutter life",
+          "url": "/blog/using-web-to-declutter-life"
+        },
+        {
+          "title": "View from my balcony in India",
+          "url": "/blog/view-from-my-balcony"
+        },
+        {
+          "title": "The best photo I ever shot",
+          "url": "/blog/best-photo-i-ever-shot"
+        },
+        {
+          "title": "View from my office desk",
+          "url": "/blog/view-from-my-desk"
+        },
+        {
+          "title": "Paragliding at Interlaken",
+          "url": "/blog/paragliding-at-interlaken"
+        },
+        {
+          "title": "Top of Scotland",
+          "url": "/blog/top-of-scotland"
+        },
+        {
+          "title": "Shard from the tower",
+          "url": "/blog/view-of-the-shard"
+        }
+      ]
+    },
+    {
+      "title": "Tech",
+      "url": "/tech",
+      "links": [
+        {
+          "title": "The biggest career landmine",
+          "url": "/tech/career-landmine"
+        },
+        {
+          "title": "What a Web Developer should know",
+          "url": "/tech/what-a-web-developer-should-know"
+        },
+        {
+          "title": "Comparison of cloud providers",
+          "url": "/tech/comparing-cloud-providers"
+        },
+        {
+          "title": "Tech stack powering my website",
+          "url": "/tech/tech-stack-powering-my-website"
+        }
+      ]
+    },
+    {
+      "title": "Courses",
+      "url": "/courses",
+      "links": [
+        {
+          "title": "Top Javascript interview questions",
+          "url": "/courses/javascript-interview-questions"
+        },
+        {
+          "title": "The best javascript interview question I've ever faced",
+          "url": "/courses/best-javascript-interview-question"
+        },
+        {
+          "title": "Top programming interview questions",
+          "url": "/courses/programming-interview-questions"
+        },
+        {
+          "title": "Top coding challenge questions",
+          "url": "/courses/coding-challenges"
+        },
+        {
+          "title": "Top system design interview questions",
+          "url": "/courses/system-design-interview-questions"
+        }
+      ]
+    }
+  ]
+}
