@@ -5,6 +5,10 @@
       "url": "/about",
       "links": [
         {
+          "title": "About me",
+          "url": "/about/about-me"
+        },
+        {
           "title": "My professional journey",
           "url": "/about/my-professional-journey"
         }
