@@ -19,6 +19,26 @@
       "url": "/blog",
       "links": [
         {
+          "title": "Next adventure - Flying",
+          "url": "/blog/learning-to-fly"
+        },
+        {
+          "title": "Using the web to declutter life",
+          "url": "/blog/using-web-to-declutter-life"
+        },
+        {
+          "title": "First month in Bumble",
+          "url": "/blog/first-month-in-bumble"
+        },
+        {
+          "title": "Next big step in life",
+          "url": "/blog/next-big-step"
+        },
+        {
+          "title": "Moving out of Germany",
+          "url": "/blog/moving-out-of-germany"
+        },
+        {
           "title": "Life in India, Germany and UK",
           "url": "/blog/life-in-de-uk"
         },
@@ -33,50 +53,6 @@
         {
           "title": "Indians in Britian",
           "url": "/blog/indians-in-britain"
-        },
-        {
-          "title": "Moving out of Germany",
-          "url": "/blog/moving-out-of-germany"
-        },
-        {
-          "title": "Next big step in life",
-          "url": "/blog/next-big-step"
-        },
-        {
-          "title": "First month in Bumble",
-          "url": "/blog/first-month-in-bumble"
-        },
-        {
-          "title": "Next adventure - Flying",
-          "url": "/blog/learning-to-fly"
-        },
-        {
-          "title": "Using the web to declutter life",
-          "url": "/blog/using-web-to-declutter-life"
-        },
-        {
-          "title": "View from my balcony in India",
-          "url": "/blog/view-from-my-balcony"
-        },
-        {
-          "title": "The best photo I ever shot",
-          "url": "/blog/best-photo-i-ever-shot"
-        },
-        {
-          "title": "View from my office desk",
-          "url": "/blog/view-from-my-desk"
-        },
-        {
-          "title": "Paragliding at Interlaken",
-          "url": "/blog/paragliding-at-interlaken"
-        },
-        {
-          "title": "Top of Scotland",
-          "url": "/blog/top-of-scotland"
-        },
-        {
-          "title": "Shard from the tower",
-          "url": "/blog/view-of-the-shard"
         }
       ]
     },
@@ -84,10 +60,6 @@
       "title": "Photos",
       "url": "/photos",
       "links": [
-        {
-          "title": "View from my balcony in India",
-          "url": "/photos/view-from-my-balcony"
-        },
         {
           "title": "The best photo I ever shot",
           "url": "/photos/best-photo-i-ever-shot"
@@ -99,6 +71,10 @@
         {
           "title": "Paragliding at Interlaken",
           "url": "/photos/paragliding-at-interlaken"
+        },
+        {
+          "title": "View from my balcony in India",
+          "url": "/photos/view-from-my-balcony"
         },
         { "title": "Top of Scotland", 
           "url": "/photos/top-of-scotland" 
@@ -113,20 +89,20 @@
       "url": "/tech",
       "links": [
         {
-          "title": "The biggest career landmine",
-          "url": "/tech/career-landmine"
-        },
-        {
-          "title": "What a Web Developer should know",
-          "url": "/tech/what-a-web-developer-should-know"
+          "title": "Tech stack powering my website",
+          "url": "/tech/tech-stack-powering-my-website"
         },
         {
           "title": "Comparison of cloud providers",
           "url": "/tech/comparing-cloud-providers"
         },
         {
-          "title": "Tech stack powering my website",
-          "url": "/tech/tech-stack-powering-my-website"
+          "title": "What a Web Developer should know",
+          "url": "/tech/what-a-web-developer-should-know"
+        },
+        {
+          "title": "The biggest career landmine",
+          "url": "/tech/career-landmine"
         }
       ]
     },
