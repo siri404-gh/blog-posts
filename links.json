@@ -81,6 +81,34 @@
       ]
     },
     {
+      "title": "Photos",
+      "url": "/photos",
+      "links": [
+        {
+          "title": "View from my balcony in India",
+          "route": "/photos/view-from-my-balcony"
+        },
+        {
+          "title": "The best photo I ever shot",
+          "route": "/photos/best-photo-i-ever-shot"
+        },
+        {
+          "title": "View from my office desk",
+          "route": "/photos/view-from-my-desk"
+        },
+        {
+          "title": "Paragliding at Interlaken",
+          "route": "/photos/paragliding-at-interlaken"
+        },
+        { "title": "Top of Scotland", 
+          "route": "/photos/top-of-scotland" 
+        },
+        { "title": "Shard from the tower", 
+          "route": "/photos/view-of-the-shard" 
+        }
+      ]
+    },
+    {
       "title": "Tech",
       "url": "/tech",
       "links": [
