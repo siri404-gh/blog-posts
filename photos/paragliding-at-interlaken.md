@@ -1,4 +1,4 @@
-<img class='img img--left img--grow' src='/posts/photos/paragliding-at-interlaken.jpg' alt='paragliding at interlaken' title='paragliding at interlaken' />
+<img class='img img--left img--grow' src='https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/photos/paragliding-at-interlaken.jpg' alt='paragliding at interlaken' title='paragliding at interlaken' />
 
 # Paragliding at Interlaken
 

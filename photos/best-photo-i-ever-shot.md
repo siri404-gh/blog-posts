@@ -1,4 +1,4 @@
-<img class='img img--left img--grow' src='/posts/photos/london-eye.jpg' alt='london eye reflection photography' title='london eye reflection' loading='lazy' />
+<img class='img img--left img--grow' src='https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/photos/london-eye.jpg' alt='london eye reflection photography' title='london eye reflection' loading='lazy' />
 
 # The best photo I've ever taken
 

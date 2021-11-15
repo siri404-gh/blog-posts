@@ -1,4 +1,4 @@
-<img class="img img--grow img--left" loading="lazy" src='/posts/blog/bumble.jpg' alt='bumble' title='bumble' />
+<img class="img--full-width img--left img--grow" loading="lazy" src='https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/blog/bumble.jpg' alt='bumble' title='bumble' />
 
 # First month in Bumble
 
@@ -23,7 +23,7 @@ experience was a breeze.
 ## Accommodation
 
 <br />
-<img class="img img--grow img--left" loading="lazy" src='/posts/blog/leman-locke.jpg' alt='leman locke' title='leman locke' />
+<img class="img--full-width img--left img--grow" loading="lazy" src='https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/blog/leman-locke.jpg' alt='leman locke' title='leman locke' />
 
 I was put up at Leman Locke in Aldgate initially for a month. A 4-star apartment
 in the 16th floor right at the heart of the city like the picture shown here was

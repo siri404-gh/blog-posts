@@ -1,4 +1,4 @@
-<img class="img img--grow" loading="lazy" src='/posts/blog/flying.jpg' />
+<img class="img--full-width img--left img--grow" loading="lazy" src='https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/blog/flying.jpg' />
 
 # Next adventure - Flying
 
@@ -32,7 +32,7 @@ get a few shots.
 
 <br />
 
-<img class="img img--grow" loading="lazy" src='/posts/blog/flying-2.jpg' />
+<img class="img--full-width img--left img--grow" loading="lazy" src='https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/blog/flying-2.jpg' />
 
 Finishing the course can take upto 2 years and make my wallet a lot lighter, but
 I am convinced it will be worth it. Cant wait for my second class.

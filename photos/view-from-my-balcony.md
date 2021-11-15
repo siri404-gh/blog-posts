@@ -1,4 +1,4 @@
-<img class='img img--left img--grow' src='/posts/photos/trivandrum-view.jpg' alt='view from balcony in india' title='view from home' />
+<img class='img img--left img--grow' src='https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/photos/trivandrum-view.jpg' alt='view from balcony in india' title='view from home' />
 
 # The view from my balcony
 

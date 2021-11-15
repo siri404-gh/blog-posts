@@ -1,4 +1,4 @@
-<img class='img img--grow' src='/posts/photos/shard-from-tower.jpg' alt='view of shard' title='view of shard' />
+<img class='img--full-width img--grow' src='https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/photos/shard-from-tower.jpg' alt='view of shard' title='view of shard' />
 
 # The majestic view of the Shard
 

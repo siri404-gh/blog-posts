@@ -1,4 +1,4 @@
-<img class='img img--left img--grow' src='/posts/photos/arthurs-seat.jpg' alt='authurs seat' title='top of scotland' />
+<img class='img img--left img--grow' src='https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/photos/arthurs-seat.jpg' alt='authurs seat' title='top of scotland' />
 
 # Trip to the top of Scotland
 

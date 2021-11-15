@@ -1,4 +1,4 @@
-<img class="img--full-width img--left img--grow" loading="lazy" src="/img/blog/sreeram.jpg" alt="sreeram padmanabhan" title="sreeram padmanabhan" />
+<img class="img--full-width img--left img--grow" loading="lazy" src="https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/about/sreeram.jpg" alt="sreeram padmanabhan" title="sreeram padmanabhan" />
 
 ## Hello, World! 👋
 
@@ -43,25 +43,25 @@ include:
 
 <div class='experience'>
 
-<img src='/img/blog/bumble.ico' /> **Senior Frontend Engineer, Bumble Inc.,
+<img src='https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/about/bumble.ico' /> **Senior Frontend Engineer, Bumble Inc.,
 London**
 
-<img src='/img/blog/dh.ico' /> **Senior Software Engineer, Delivery Hero,
+<img src='https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/about/dh.ico' /> **Senior Software Engineer, Delivery Hero,
 Berlin**
 
-<img src='/img/blog/lloyds.ico' /> **Senior Software Engineer, Lloyds Bank,
+<img src='https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/about/lloyds.ico' /> **Senior Software Engineer, Lloyds Bank,
 London**
 
-<img src='/img/blog/apple.ico' /> **Software Engineer, Apple,
+<img src='https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/about/apple.ico' /> **Software Engineer, Apple,
 Bangalore/Chennai**
 
-<img src='/img/blog/nokia.ico' /> **Unix Administrator, Nokia Networks, Cochin**
+<img src='https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/about/nokia.ico' /> **Unix Administrator, Nokia Networks, Cochin**
 
-<img src='/img/blog/wd.png' /> **Software Engineer, Wipro Digital, London**
+<img src='https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/about/wd.png' /> **Software Engineer, Wipro Digital, London**
 
-<img src='/img/blog/mistallianz.jpeg' /> **PHP Developer, Mistallianz Ltd,
+<img src='https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/about/mistallianz.jpeg' /> **PHP Developer, Mistallianz Ltd,
 Trivandrum**
 
-<img src='/img/blog/bumble.ico' /> **Freelance Web Developer, Trivandrum**
+<img src='https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/about/bumble.ico' /> **Freelance Web Developer, Trivandrum**
 
 </div>

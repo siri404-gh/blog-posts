@@ -1,4 +1,4 @@
-<img class='img img--left img--grow' src='/posts/photos/125-london-wall.jpg' alt='view from my work desk' title='view from my work desk' />
+<img class='img img--left img--grow' src='https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/photos/125-london-wall.jpg' alt='view from my work desk' title='view from my work desk' />
 
 # The view from my desk at work
 

@@ -1,4 +1,4 @@
-<img class='img img--left img--grow' src='/posts/photos/snow-mountains.jpg' alt='snow capped mountains' title='snow capped mountains' />
+<img class='img img--left img--grow' src='https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/photos/snow-mountains.jpg' alt='snow capped mountains' title='snow capped mountains' />
 
 # The coolest thing I've seen from an airplane
 

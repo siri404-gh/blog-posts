@@ -79,6 +79,6 @@ or Instagram.
 
 &nbsp;
 
-<iframe class="img img--grow" src="https://www.youtube.com/embed/YJLcTf8nLFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" height="200" allowfullscreen></iframe>
+<iframe class="img--full-width img--grow" src="https://www.youtube.com/embed/YJLcTf8nLFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" height="200" allowfullscreen></iframe>
 
 &nbsp;
