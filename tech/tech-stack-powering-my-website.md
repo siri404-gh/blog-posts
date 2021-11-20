@@ -20,7 +20,7 @@ I wanted the following features built into it.
 All of the code goes there into a private repository. Github Actions takes it
 and runs a bunch of tests.
 
-**Frontend stuff** - I use Next.JS, Typpescript, React, Redux Saga and Jest for
+**Frontend stuff** - I use Next.JS, Typescript, React, Redux Saga and Jest for
 writing the frontend.
 
 **Backend stuff** - I use Next.JS APIs (very similar to Express) and

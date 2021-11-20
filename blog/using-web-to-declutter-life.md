@@ -46,7 +46,7 @@ I keep a note of important stuff in my Google Keep. Right from my addresses in 3
 
 ### How I use Google timeline
 
-<img class="img img--left" loading="lazy" src='/posts/blog/timeline.png' />
+<img class="img img--left" loading="lazy" src='https://raw.githubusercontent.com/sreeramofficial/blog-posts/master/img/blog/timeline.png' />
 
 I like to keep track of everywhere I have been to. I have been doing this over the past 10 years. My phone keeps sending regular location updates to my Google Account and it builds up this amazing plot of all the places I have been to over the years like shown here. It also shares memories from the past of places you have been to before. Isnt that amazing or what! You can do this by turning your location history on. Some people dont like doing this because it intrudes into their privacy. It can also drain your battery. But for some reason, I really like this idea. It also tracks the number of steps I walked, cycled or rode in a car. Its also also shared with my family who are able to find where I am in the world pin pointing to the exact location at any given moment. Might come handy if I go missing. Lol. So far, Google tells me I have visited 14 countries, 68 cities and 753 places.
 
