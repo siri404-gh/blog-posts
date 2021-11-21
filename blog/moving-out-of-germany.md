@@ -1,4 +1,4 @@
-<img class='img--full-width img--left img--grow' src='https://upload.wikimedia.org/wikipedia/commons/a/a6/Brandenburger_Tor_abends.jpg' alt='berlin' title='berlin' />
+<img class='img--full-width img--left img--grow' src='https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg' alt='berlin' title='berlin' />
 
 # My experience of moving out of Germany
 
