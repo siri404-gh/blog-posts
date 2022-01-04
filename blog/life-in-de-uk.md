@@ -7,7 +7,7 @@
 ## Background
 
 The following abbreviations will be used in this post: **IN** - India **DE** -
-Germany **UK** - United Kingdom
+Germany **UK** - United Kingdom **EU** - European Union
 
 I lived in IN for the first 25 years, moved to the UK where I lived for 3 years
 and then to DE where I lived for 2 years. I then decided to move back the UK.
