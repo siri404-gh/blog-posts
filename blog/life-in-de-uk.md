@@ -31,7 +31,7 @@ connections. It is not just my opinion but is a point that is discussed
 extensively in Berlin amongst the expat community. IN or UK would be the best
 bet for it. 1-0-2 🇮🇳🇩🇪🇬🇧
 
-**Beuraucratic** - I had issues navigating through the German system. They had
+**Bureaucratic** - I had issues navigating through the German system. They had
 some of the weirdest laws I have ever come across. They served a purpose, sure.
 But for an immigrant expat to get used to them would take a decade. I didn't
 have that time. I got this constant feeling that someone was watching over me
