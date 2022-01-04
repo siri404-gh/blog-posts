@@ -17,12 +17,12 @@ and then to DE where I lived for 2 years. I then decided to move back the UK.
 If I were to compare 3 countries, I would compare them based on the following
 criteria.
 
-**Monatary** - Where do I get the most value for my contribution? Obviously this
+**Monetary** - Where do I get the most value for my contribution? Obviously this
 will be better in the UK or EU. Maybe in IN in the future. But at the moment,
 its the UK. 0-0-1 🇮🇳🇩🇪🇬🇧
 
 **Social** - I found UK to me much more receptive to Indians than DE. This is
-probably due to the shared history between the countries. And IN would have been
+probably due to the shared history between the 2 countries. And IN would have been
 cake walk. When I was in DE, besides some of the professional connections I
 made, my social life took a hit. It was because of the language barrier I had
 there. Also, Berlin is not the place to make friends. Everybody is from
@@ -49,7 +49,7 @@ have lived there before. Life in IN would have been okay, but difficult. 3-1-5
 
 **Travel** - DE being in the center of Europe, it would have enabled me to
 travel many countries in Europe and Asia. It will be slightly more difficult in
-the UK. 3-2-5 🇮🇳🇩🇪🇬🇧
+the UK especially after Brexit and Covid. 3-2-5 🇮🇳🇩🇪🇬🇧
 
 **Closeness to parents** - It would be equally easy for me to visit them once or
 twice a year from the UK or DE. But not as easy as from IN. This is something I
@@ -65,5 +65,7 @@ all, UK and DE would be better to raise a family. 4-3-6 🇮🇳🇩🇪🇬🇧
 
 DE would have been good had it not been for the pandemic and after an initial
 struggle of 5-6 years. But because I dont have that time, I have chosen to go
-the UK yet again. It feels like the more natural place for Indians to go. But I
-am happy I got to learn DE for 2 years.
+the UK yet again. Considering the fact that all my education has been in English, 
+and its the only language, not even my mother tongue I can read, write, speak and 
+dream, UK is the best place for me to be. It feels like the most natural place 
+for me to go. But I am happy I got to learn DE for 2 years.
