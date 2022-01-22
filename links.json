@@ -161,16 +161,8 @@
           "url": "/javascript/context"
         },
         {
-          "title": "Call",
+          "title": "Call, Apply, and Bind",
           "url": "/javascript/call"
-        },
-        {
-          "title": "Apply",
-          "url": "/javascript/apply"
-        },
-        {
-          "title": "Bind",
-          "url": "/javascript/bind"
         },
         {
           "title": "Debounce",
