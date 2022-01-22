@@ -1,4 +1,4 @@
-# Closures
+# Closures in Javascript
 
 ```js
 const adder = function (num1) {

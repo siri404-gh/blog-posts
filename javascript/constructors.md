@@ -1,4 +1,4 @@
-# Constructor functions
+# Constructor functions in Javascript
 
 ```js
 function Node(val) {

@@ -1,4 +1,4 @@
-# Arguments
+# The arguments keyword
 
 Assume a function is invoked like this:
 

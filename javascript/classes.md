@@ -1,4 +1,4 @@
-# Class
+# Classes in Javascript
 
 ```js
 const Add = class {
@@ -8,10 +8,10 @@ const Add = class {
 }
 
 const n = new Add(10)
-console.log(n) // { val: 10 };
+console.log(n) // { lVal: 10 };
 ```
 
-## extends
+## The extends keyword
 
 ```js
 const Add = class {
