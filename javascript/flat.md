@@ -1,4 +1,4 @@
-Implement Array flat in Javascript
+# Implement Array flat in Javascript
 
 ```js
 Array.prototype.myFlat = function () {

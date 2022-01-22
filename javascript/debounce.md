@@ -1,7 +1,6 @@
 # Implement debouncing in Javascript
 
 ```js
-
 // Execute only once after given duration. For eg, rampant click of a button
 
 const debounce = (fn, time) => {

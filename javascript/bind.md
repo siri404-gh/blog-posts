@@ -1,7 +1,6 @@
 # Implement bind in javascript
 
 ```js
-
 Function.prototype.myBind = function(obj, ...args1) {
   obj[(key = Math.random())] = this
 

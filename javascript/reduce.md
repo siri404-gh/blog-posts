@@ -1,4 +1,4 @@
-Implement Array reduce in Javascript
+# Implement Array reduce in Javascript
 
 ```js
 Array.prototype.myReduce = function (reducer, initialVal) {

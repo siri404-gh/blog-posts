@@ -1,7 +1,6 @@
 # Implement an emitter in Javascript
 
 ```js
-
 const Emitter = class {
   constructor() {
     this.events = {}

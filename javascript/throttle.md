@@ -1,7 +1,6 @@
 # Implement throttling in Javascript
 
 ```js
-
 // Execute once every given duration. For eg, firing network calls
 
 const throttle = function (fn, duration) {

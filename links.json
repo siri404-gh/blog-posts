@@ -141,6 +141,10 @@
           "url": "/javascript/arguments"
         },
         {
+          "title": "Rest and Spread",
+          "url": "/javascript/rest-spread"
+        },
+        {
           "title": "Closures",
           "url": "/javascript/closures"
         },
@@ -157,39 +161,39 @@
           "url": "/javascript/context"
         },
         {
-          "title": "Implement call in javascript",
+          "title": "Call",
           "url": "/javascript/call"
         },
         {
-          "title": "Implement apply in javascript",
+          "title": "Apply",
           "url": "/javascript/apply"
         },
         {
-          "title": "Implement bind in javascript",
+          "title": "Bind",
           "url": "/javascript/bind"
         },
         {
-          "title": "Implement debounce in javascript",
+          "title": "Debounce",
           "url": "/javascript/debounce"
         },
         {
-          "title": "Implement throttle in javascript",
+          "title": "Throttle",
           "url": "/javascript/throttle"
         },
         {
-          "title": "Implement array flat in javascript",
+          "title": "Array flat",
           "url": "/javascript/flat"
         },
         {
-          "title": "Implement array reduce in javascript",
+          "title": "Array reduce",
           "url": "/javascript/reduce"
         },
         {
-          "title": "Implement redux using javascript",
-          "url": "/javascript/redux"
+          "title": "Emitter class",
+          "url": "/javascript/emitter"
         },
         {
-          "title": "Implement an emitter in javascript",
+          "title": "Redux implementation",
           "url": "/javascript/redux"
         }
       ]
