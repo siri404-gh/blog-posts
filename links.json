@@ -193,8 +193,16 @@
           "url": "/javascript/emitter"
         },
         {
-          "title": "Redux implementation",
+          "title": "Redux",
           "url": "/javascript/redux"
+        },
+        {
+          "title": "Iterators",
+          "url": "/javascript/iterators"
+        },
+        {
+          "title": "Generators",
+          "url": "/javascript/generators"
         }
       ]
     }
