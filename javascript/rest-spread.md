@@ -1,7 +1,5 @@
 # Rest and Spread
 
-#### 31 May 2021
-
 &nbsp;
 
 ## Rest parameters

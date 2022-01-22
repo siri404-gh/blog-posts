@@ -18,7 +18,7 @@ const sleep = time =>
 
 const throttledLog = console.log.throttle(1000)
 
-;(async () => {
+(async () => {
   throttledLog(1) // 1
   throttledLog(2)
   throttledLog(3)

@@ -1,16 +1,8 @@
 # The arguments keyword
 
-Assume a function is invoked like this:
-
 ```js
 add(1, 2, 3)
-```
 
-&nbsp;
-
-You would get the following outputs -
-
-```js
 function add() {
   console.log(arguments) // [1, 2, 3, callee]
 }
