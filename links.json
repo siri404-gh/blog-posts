@@ -107,32 +107,6 @@
       ]
     },
     {
-      "title": "Interview",
-      "url": "/interview",
-      "links": [
-        {
-          "title": "Top Javascript interview questions",
-          "url": "/interview/javascript-interview-questions"
-        },
-        {
-          "title": "The best javascript interview question I've ever faced",
-          "url": "/interview/best-javascript-interview-question"
-        },
-        {
-          "title": "Top programming interview questions",
-          "url": "/interview/programming-interview-questions"
-        },
-        {
-          "title": "Top coding challenge questions",
-          "url": "/interview/coding-challenges"
-        },
-        {
-          "title": "Top system design interview questions",
-          "url": "/interview/system-design-interview-questions"
-        }
-      ]
-    },
-    {
       "title": "Javascript",
       "url": "/javascript",
       "links": [
@@ -195,6 +169,32 @@
         {
           "title": "Generators",
           "url": "/javascript/generators"
+        }
+      ]
+    },
+    {
+      "title": "Interview",
+      "url": "/interview",
+      "links": [
+        {
+          "title": "Top Javascript interview questions",
+          "url": "/interview/javascript-interview-questions"
+        },
+        {
+          "title": "The best javascript interview question I've ever faced",
+          "url": "/interview/best-javascript-interview-question"
+        },
+        {
+          "title": "Top programming interview questions",
+          "url": "/interview/programming-interview-questions"
+        },
+        {
+          "title": "Top coding challenge questions",
+          "url": "/interview/coding-challenges"
+        },
+        {
+          "title": "Top system design interview questions",
+          "url": "/interview/system-design-interview-questions"
         }
       ]
     }
