@@ -1,3 +1,7 @@
+# Wayfair 2021
+
+## Problem
+
 We are writing a tool to help users manage their calendars. Given an unordered
 list of times of day when someone is busy, write a function that tells us
 whether they're available during a specified period of time.
@@ -30,3 +34,10 @@ isAvailable(meetings, 1300, 1501)  => false
 ```
 
 n = number of meetings m = minutes in range of meetings
+
+&nbsp;
+
+## Solution
+
+```js
+```

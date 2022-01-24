@@ -1,4 +1,11 @@
-# Implement an emitter in Javascript
+# Facebook 2020
+
+## Problem
+
+Implement an emitter class in Javascript
+
+&nbsp;
+## Solution
 
 ```js
 const Emitter = class {

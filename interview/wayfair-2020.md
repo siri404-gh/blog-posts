@@ -1,3 +1,7 @@
+# Wayfair 2020
+
+## Problem
+
 We have a two-dimensional board game involving snakes. The board has two types
 of squares on it: +'s represent impassable squares where snakes cannot go, and
 0's represent squares through which snakes can move. Snakes may move in any of
@@ -27,3 +31,41 @@ the nearest exit to which it can travel. If there is a tie, return any of the
 nearest exits.
 
 n = # of rows m = # of columns
+
+
+[1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
+
+&nbsp;
+## Solution
+
+```js
+/**
+ * @param {character[][]} maze
+ * @param {number[]} entrance
+ * @return {number}
+ */
+
+const dfs = (grid, i , j, count, map) => {
+  if (i < 0 || j < 0 || j === grid[0].length || i === grid.length || grid[i][j] === '+') return;
+  
+  console.log(i, j, count)
+  if (i === 0 || j === 0 || i === grid.length - 1 || j === grid[0].length - 1) {
+    if (!map.count) map.count = count
+		else map.count = Math.min(map.count, count);
+	}
+  
+	grid[i][j] = '+';
+  
+	dfs(grid,i-1,j,count+1,map)
+  dfs(grid,i+1,j,count+1,map)
+  dfs(grid,i,j-1,count+1,map)
+  dfs(grid,i,j+1,count+1,map)
+};
+
+var nearestExit = function(maze, entrance) {
+	const map = { count: 0 };
+	dfs(maze, entrance[0], entrance[1], 0, map);
+  console.log(map)
+  return map.count || - 1
+};
+```
