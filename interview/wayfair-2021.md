@@ -1,5 +1,7 @@
 # Wayfair 2021
 
+&nbsp;
+
 ## Problem
 
 We are writing a tool to help users manage their calendars. Given an unordered
