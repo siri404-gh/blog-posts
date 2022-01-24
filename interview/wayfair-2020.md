@@ -1,5 +1,7 @@
 # Wayfair 2020
 
+&nbsp;
+
 ## Problem
 
 We have a two-dimensional board game involving snakes. The board has two types
@@ -33,7 +35,7 @@ nearest exits.
 n = # of rows m = # of columns
 
 
-[1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
+Leetcode - [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
 
 &nbsp;
 ## Solution

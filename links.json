@@ -193,6 +193,10 @@
           "url": "/interview/bolt-2019"
         },
         {
+          "title": "Delivery Hero 2019",
+          "url": "/interview/deliveryhero-2019"
+        },
+        {
           "title": "Bolt 2020",
           "url": "/interview/bolt-2020"
         },
@@ -235,6 +239,10 @@
         {
           "title": "Wix 2021",
           "url": "/interview/wix-2021"
+        },
+        {
+          "title": "Facebook 2021",
+          "url": "/interview/facebook-2021"
         }
       ]
     }

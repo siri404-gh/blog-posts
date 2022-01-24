@@ -6,7 +6,7 @@
 
 Given an integer n, return any array containing n unique integers such that they add up to 0.
 
-[1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
+Leetcode - [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 
 &nbsp;
 ## Solution
