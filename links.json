@@ -173,6 +173,18 @@
         {
           "title": "Sorting algorithms",
           "url": "/javascript/sorting-algorithms"
+        },
+        {
+          "title": "Set datastructure",
+          "url": "/javascript/set"
+        },
+        {
+          "title": "Singly Linked List",
+          "url": "/javascript/singly-linked-list"
+        },
+        {
+          "title": "Binary Search Tree",
+          "url": "/javascript/binary-search-tree"
         }
       ]
     },
