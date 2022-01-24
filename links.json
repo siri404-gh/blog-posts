@@ -169,6 +169,10 @@
         {
           "title": "Generators",
           "url": "/javascript/generators"
+        },
+        {
+          "title": "Sorting algorithms",
+          "url": "/javascript/sorting-algorithms"
         }
       ]
     },
@@ -177,24 +181,56 @@
       "url": "/interview",
       "links": [
         {
-          "title": "Top Javascript interview questions",
-          "url": "/interview/javascript-interview-questions"
+          "title": "Klarna 2019",
+          "url": "/interview/klarna-2019"
         },
         {
-          "title": "The best javascript interview question I've ever faced",
-          "url": "/interview/best-javascript-interview-question"
+          "title": "Bolt 2019",
+          "url": "/interview/bolt-2019"
         },
         {
-          "title": "Top programming interview questions",
-          "url": "/interview/programming-interview-questions"
+          "title": "Zalando 2020",
+          "url": "/interview/zalando-2020"
         },
         {
-          "title": "Top coding challenge questions",
-          "url": "/interview/coding-challenges"
+          "title": "Bolt 2020",
+          "url": "/interview/bolt-2021"
         },
         {
-          "title": "Top system design interview questions",
-          "url": "/interview/system-design-interview-questions"
+          "title": "Wayfair 2020",
+          "url": "/interview/wayfair-2020"
+        },
+        {
+          "title": "Facebook 2020",
+          "url": "/interview/facebook-2020"
+        },
+        {
+          "title": "Auto 1 2020",
+          "url": "/interview/auto-1-2020"
+        },
+        {
+          "title": "Delivery Hero 2020",
+          "url": "/interview/deliveryhero-2020"
+        },
+        {
+          "title": "Rain 2020",
+          "url": "/interview/rain-2020"
+        },
+        {
+          "title": "Causalens 2020",
+          "url": "/interview/causalens-2020"
+        },
+        {
+          "title": "Wayfair 2021",
+          "url": "/interview/wayfair-2021"
+        },
+        {
+          "title": "Bloomberg 2021",
+          "url": "/interview/bloomberg-2021"
+        },
+        {
+          "title": "Aize 2021",
+          "url": "/interview/aize-2021"
         }
       ]
     }
