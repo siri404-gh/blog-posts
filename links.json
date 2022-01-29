@@ -194,67 +194,67 @@
       "links": [
         {
           "title": "2. Add Two Numbers",
-          "url": "/leetcode/2.md"
+          "url": "/leetcode/2"
         },
         {
           "title": "3. Longest Substring Without Repeating Characters",
-          "url": "/leetcode/3.md"
+          "url": "/leetcode/3"
         },
         {
           "title": "11. Container With Most Water",
-          "url": "/leetcode/11.md"
+          "url": "/leetcode/11"
         },
         {
           "title": "19. Remove Nth Node From End of List",
-          "url": "/leetcode/19.md"
+          "url": "/leetcode/19"
         },
         {
           "title": "36. Valid Sudoku",
-          "url": "/leetcode/36.md"
+          "url": "/leetcode/36"
         },
         {
           "title": "56. Merge Intervals",
-          "url": "/leetcode/56.md"
+          "url": "/leetcode/56"
         },
         {
           "title": "64. Minimum Path Sum",
-          "url": "/leetcode/64.md"
+          "url": "/leetcode/64"
         },
         {
           "title": "79. Word Search",
-          "url": "/leetcode/79.md"
+          "url": "/leetcode/79"
         },
         {
           "title": "98. Validate Binary Search Tree",
-          "url": "/leetcode/98.md"
+          "url": "/leetcode/98"
         },
         {
           "title": "100. Same Tree",
-          "url": "/leetcode/100.md"
+          "url": "/leetcode/100"
         },
         {
           "title": "101. Symmetric Tree",
-          "url": "/leetcode/101.md"
+          "url": "/leetcode/101"
         },
         {
           "title": "104. Maximum Depth of Binary Tree",
-          "url": "/leetcode/104.md"
+          "url": "/leetcode/104"
         },
         {
           "title": "110. Balanced Binary Tree",
-          "url": "/leetcode/110.md"
+          "url": "/leetcode/110"
         },
         {
           "title": "113. Path Sum II",
-          "url": "/leetcode/113.md"
+          "url": "/leetcode/113"
         },
         {
           "title": "572. Subtree of Another Tree",
-          "url": "/leetcode/572.md"
+          "url": "/leetcode/572"
         },
         {
           "title": "1305. All Elements in Two Binary Search Trees",
-          "url": "/leetcode/1305.md"
+          "url": "/leetcode/1305"
         }
       ]
     },
