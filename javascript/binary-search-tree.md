@@ -77,19 +77,16 @@ BST.prototype.postOrder = function (root = this.root) {
 };
 
 BST.prototype.levelOrder = function (root = this.root) {
-    if (!root) return;
-    let res = [];
-    let q = [];
-
-    q.push(this.root);
-
-    while (q.length) {
-        const node = q.shift();
-        res.push(node.val);
-        node.left && q.push(node.left);
-        node.right && q.push(node.right);
+    if (!root) return [];
+    const result = [];
+    const traverse = (node, depth = 0) => {
+        node.left && traverse(node.left, depth + 1);
+        if (result[depth]) result[depth].push(node.val);
+        else result[depth] = [node.val];
+        node.right && traverse(node.right, depth + 1);
     }
-    return res;
+    traverse(root);
+    return result;
 };
 
 BST.prototype.inOrderIterative = function (root = this.root) {
@@ -110,6 +107,23 @@ BST.prototype.inOrderIterative = function (root = this.root) {
 
     return res;
 };
+
+BST.prototype.levelOrderIterative = function (root = this.root) {
+    if (!root) return;
+    let res = [];
+    let q = [];
+
+    q.push(this.root);
+
+    while (q.length) {
+        const node = q.shift();
+        res.push(node.val);
+        node.left && q.push(node.left);
+        node.right && q.push(node.right);
+    }
+    return res;
+};
+
 
 BST.prototype.findMin = function (root = this.root) {
     if (!root) return null;
