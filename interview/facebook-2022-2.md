@@ -4,7 +4,7 @@
 
 ## Problem
 
-Prepare a setTimeout and clearTimeout and clearAllTimeouts . Should be global and have a garbage collection system for all running timeouts on demand.
+Prepare a setTimeout and clearTimeout and clearAllTimeouts. Should be global and have a garbage collection system for all running timeouts on demand.
 
 &nbsp;
 
