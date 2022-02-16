@@ -283,80 +283,56 @@
       "url": "/interview",
       "links": [
         {
-          "title": "Klarna 2019",
-          "url": "/interview/klarna-2019"
+          "title": "Klarna 2022",
+          "url": "/interview/klarna-2022"
         },
         {
-          "title": "Zalando 2019",
-          "url": "/interview/zalando-2019"
+          "title": "Zalando 2022",
+          "url": "/interview/zalando-2022"
         },
         {
-          "title": "Bolt 2019",
-          "url": "/interview/bolt-2019"
+          "title": "Bolt 2022",
+          "url": "/interview/bolt-2022"
         },
         {
-          "title": "Delivery Hero 2019",
-          "url": "/interview/deliveryhero-2019"
+          "title": "Delivery Hero 2022",
+          "url": "/interview/deliveryhero-2022"
         },
         {
-          "title": "Bolt 2020",
-          "url": "/interview/bolt-2020"
+          "title": "Wayfair 2022",
+          "url": "/interview/wayfair-2022"
         },
         {
-          "title": "Wayfair 2020",
-          "url": "/interview/wayfair-2020"
+          "title": "Auto1 2022",
+          "url": "/interview/auto1-2022"
         },
         {
-          "title": "Auto1 2020",
-          "url": "/interview/auto1-2020"
+          "title": "Rain 2022",
+          "url": "/interview/rain-2022"
         },
         {
-          "title": "Delivery Hero 2020",
-          "url": "/interview/deliveryhero-2020"
+          "title": "Bloomberg 2022",
+          "url": "/interview/bloomberg-2022"
         },
         {
-          "title": "Rain 2020",
-          "url": "/interview/rain-2020"
+          "title": "Aize 2022",
+          "url": "/interview/aize-2022"
         },
         {
-          "title": "Causalens 2020",
-          "url": "/interview/causalens-2020"
+          "title": "Google 2022",
+          "url": "/interview/google-2022"
         },
         {
-          "title": "Wayfair 2021",
-          "url": "/interview/wayfair-2021"
+          "title": "Microsoft 2022",
+          "url": "/interview/microsoft-2022"
         },
         {
-          "title": "Bloomberg 2021",
-          "url": "/interview/bloomberg-2021"
+          "title": "Apple 2022",
+          "url": "/interview/apple-2022"
         },
         {
-          "title": "Aize 2021",
-          "url": "/interview/aize-2021"
-        },
-        {
-          "title": "Wix 2021",
-          "url": "/interview/wix-2021"
-        },
-        {
-          "title": "Delivery Hero 2021",
-          "url": "/interview/deliveryhero-2021"
-        },
-        {
-          "title": "Facebook 2020",
-          "url": "/interview/facebook-2020"
-        },
-        {
-          "title": "Facebook 2021",
-          "url": "/interview/facebook-2021"
-        },
-        {
-          "title": "Facebook 2022",
-          "url": "/interview/facebook-2022"
-        },
-        {
-          "title": "Facebook 2022 II",
-          "url": "/interview/facebook-2022-2"
+          "title": "Twitter 2022",
+          "url": "/interview/twitter-2022"
         }
       ]
     }
