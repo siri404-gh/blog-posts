@@ -143,6 +143,10 @@
           "url": "/javascript/call-apply-bind"
         },
         {
+          "title": "Array.prototype.map",
+          "url": "/javascript/array-prototype-map"
+        },
+        {
           "title": "Debounce",
           "url": "/javascript/debounce"
         },
