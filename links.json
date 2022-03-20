@@ -167,6 +167,10 @@
           "url": "/javascript/currying"
         },
         {
+          "title": "Promisify",
+          "url": "/javascript/promisify"
+        }
+        {
           "title": "Emitter class",
           "url": "/javascript/emitter"
         },
