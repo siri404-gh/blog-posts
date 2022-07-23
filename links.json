@@ -3,6 +3,7 @@
     {
       "title": "About",
       "url": "/about",
+      "icon": "about",
       "links": [
         {
           "title": "About me",
@@ -17,6 +18,7 @@
     {
       "title": "Blog",
       "url": "/blog",
+      "icon": "blog",
       "links": [
         {
           "title": "Next adventure - Flying",
@@ -59,6 +61,7 @@
     {
       "title": "Photos",
       "url": "/photos",
+      "icon": "photos",
       "links": [
         {
           "title": "The best photo I ever shot",
@@ -87,6 +90,7 @@
     {
       "title": "Tech",
       "url": "/tech",
+      "icon": "tech",
       "links": [
         {
           "title": "Tech stack powering my website",
@@ -113,6 +117,7 @@
     {
       "title": "Javascript",
       "url": "/javascript",
+      "icon": "javascript",
       "links": [
         {
           "title": "Arguments",
@@ -215,6 +220,7 @@
     {
       "title": "Interview",
       "url": "/interview",
+      "icon": "interview",
       "links": [
         {
           "title": "Klarna 2022",
