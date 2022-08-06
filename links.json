@@ -222,58 +222,7 @@
       "url": "/interview",
       "icon": "interview",
       "links": [
-        {
-          "title": "Klarna 2022",
-          "url": "/interview/klarna-2022"
-        },
-        {
-          "title": "Zalando 2022",
-          "url": "/interview/zalando-2022"
-        },
-        {
-          "title": "Bolt 2022",
-          "url": "/interview/bolt-2022"
-        },
-        {
-          "title": "Delivery Hero 2022",
-          "url": "/interview/deliveryhero-2022"
-        },
-        {
-          "title": "Wayfair 2022",
-          "url": "/interview/wayfair-2022"
-        },
-        {
-          "title": "Auto1 2022",
-          "url": "/interview/auto1-2022"
-        },
-        {
-          "title": "Rain 2022",
-          "url": "/interview/rain-2022"
-        },
-        {
-          "title": "Bloomberg 2022",
-          "url": "/interview/bloomberg-2022"
-        },
-        {
-          "title": "Aize 2022",
-          "url": "/interview/aize-2022"
-        },
-        {
-          "title": "Google 2022",
-          "url": "/interview/google-2022"
-        },
-        {
-          "title": "Microsoft 2022",
-          "url": "/interview/microsoft-2022"
-        },
-        {
-          "title": "Apple 2022",
-          "url": "/interview/apple-2022"
-        },
-        {
-          "title": "Twitter 2022",
-          "url": "/interview/twitter-2022"
-        }
+
       ]
     }
   ]
