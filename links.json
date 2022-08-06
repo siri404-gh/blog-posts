@@ -160,6 +160,17 @@
           "url": "/javascript/singleton-pattern"
         }
       ]
+    },
+    {
+      "title": "Interview",
+      "url": "/interview",
+      "icon": "interview",
+      "links": [
+        {
+          "title": "Klarna 2022",
+          "url": "/interview/klarna-2022"
+        }
+      ]
     }
   ]
 }
