@@ -1,0 +1,280 @@
+{
+  "links": [
+    {
+      "title": "About",
+      "url": "/about",
+      "icon": "about",
+      "links": [
+        {
+          "title": "About me",
+          "url": "/about/me"
+        },
+        {
+          "title": "My professional journey",
+          "url": "/about/my-professional-journey"
+        }
+      ]
+    },
+    {
+      "title": "Blog",
+      "url": "/blog",
+      "icon": "blog",
+      "links": [
+        {
+          "title": "Next adventure - Flying",
+          "url": "/blog/learning-to-fly"
+        },
+        {
+          "title": "Using the web to declutter life",
+          "url": "/blog/using-web-to-declutter-life"
+        },
+        {
+          "title": "First month in Bumble",
+          "url": "/blog/first-month-in-bumble"
+        },
+        {
+          "title": "Next big step in life",
+          "url": "/blog/next-big-step"
+        },
+        {
+          "title": "Moving out of Germany",
+          "url": "/blog/moving-out-of-germany"
+        },
+        {
+          "title": "Life in India, Germany and UK",
+          "url": "/blog/life-in-de-uk"
+        },
+        {
+          "title": "The past decade",
+          "url": "/blog/the-past-decade"
+        },
+        {
+          "title": "Moving to Germany",
+          "url": "/blog/moving-to-germany"
+        },
+        {
+          "title": "Indians in Britian",
+          "url": "/blog/indians-in-britain"
+        }
+      ]
+    },
+    {
+      "title": "Photos",
+      "url": "/photos",
+      "icon": "photos",
+      "links": [
+        {
+          "title": "The best photo I ever shot",
+          "url": "/photos/best-photo-i-ever-shot"
+        },
+        {
+          "title": "View from my office desk",
+          "url": "/photos/view-from-my-desk"
+        },
+        {
+          "title": "Paragliding at Interlaken",
+          "url": "/photos/paragliding-at-interlaken"
+        },
+        {
+          "title": "View from my balcony in India",
+          "url": "/photos/view-from-my-balcony"
+        },
+        { "title": "Top of Scotland", 
+          "url": "/photos/top-of-scotland" 
+        },
+        { "title": "Shard from the tower", 
+          "url": "/photos/view-of-the-shard" 
+        }
+      ]
+    },
+    {
+      "title": "Tech",
+      "url": "/tech",
+      "icon": "tech",
+      "links": [
+        {
+          "title": "Tech stack powering my website",
+          "url": "/tech/tech-stack-powering-my-website"
+        },
+        {
+          "title": "Comparison of cloud providers",
+          "url": "/tech/comparing-cloud-providers"
+        },
+        {
+          "title": "What a Web Developer should know",
+          "url": "/tech/what-a-web-developer-should-know"
+        },
+        {
+          "title": "The biggest career landmine",
+          "url": "/tech/career-landmine"
+        },
+        {
+          "title": "PWAs to TWAs",
+          "url": "/tech/pwa-to-twa"
+        }
+      ]
+    },
+    {
+      "title": "Javascript",
+      "url": "/javascript",
+      "icon": "javascript",
+      "links": [
+        {
+          "title": "Arguments",
+          "url": "/javascript/arguments"
+        },
+        {
+          "title": "Rest and Spread",
+          "url": "/javascript/rest-spread"
+        },
+        {
+          "title": "Closures",
+          "url": "/javascript/closures"
+        },
+        {
+          "title": "Classes",
+          "url": "/javascript/classes"
+        },
+        {
+          "title": "Constructors",
+          "url": "/javascript/constructors"
+        },
+        {
+          "title": "Context",
+          "url": "/javascript/context"
+        },
+        {
+          "title": "Call, Apply, and Bind",
+          "url": "/javascript/call-apply-bind"
+        },
+        {
+          "title": "Array.prototype.map",
+          "url": "/javascript/array-prototype-map"
+        },
+        {
+          "title": "Debounce",
+          "url": "/javascript/debounce"
+        },
+        {
+          "title": "Throttle",
+          "url": "/javascript/throttle"
+        },
+        {
+          "title": "Array flat",
+          "url": "/javascript/flat"
+        },
+        {
+          "title": "Array reduce",
+          "url": "/javascript/reduce"
+        },
+        {
+          "title": "Currying",
+          "url": "/javascript/currying"
+        },
+        {
+          "title": "Promisify",
+          "url": "/javascript/promisify"
+        },
+        {
+          "title": "Emitter class",
+          "url": "/javascript/emitter"
+        },
+        {
+          "title": "Redux",
+          "url": "/javascript/redux"
+        },
+        {
+          "title": "Iterators",
+          "url": "/javascript/iterators"
+        },
+        {
+          "title": "Generators",
+          "url": "/javascript/generators"
+        },
+        {
+          "title": "Sorting algorithms",
+          "url": "/javascript/sorting-algorithms"
+        },
+        {
+          "title": "Set datastructure",
+          "url": "/javascript/set"
+        },
+        {
+          "title": "Singly Linked List",
+          "url": "/javascript/singly-linked-list"
+        },
+        {
+          "title": "Binary Search Tree",
+          "url": "/javascript/binary-search-tree"
+        },
+        {
+          "title": "Revealing Module Pattern",
+          "url": "/javascript/revealing-module-pattern"
+        },
+        {
+          "title": "Singleton Pattern",
+          "url": "/javascript/singleton-pattern"
+        }
+      ]
+    },
+    {
+      "title": "Interview",
+      "url": "/interview",
+      "icon": "interview",
+      "links": [
+        {
+          "title": "Klarna 2022",
+          "url": "/interview/klarna-2022"
+        },
+        {
+          "title": "Zalando 2022",
+          "url": "/interview/zalando-2022"
+        },
+        {
+          "title": "Bolt 2022",
+          "url": "/interview/bolt-2022"
+        },
+        {
+          "title": "Delivery Hero 2022",
+          "url": "/interview/deliveryhero-2022"
+        },
+        {
+          "title": "Wayfair 2022",
+          "url": "/interview/wayfair-2022"
+        },
+        {
+          "title": "Auto1 2022",
+          "url": "/interview/auto1-2022"
+        },
+        {
+          "title": "Rain 2022",
+          "url": "/interview/rain-2022"
+        },
+        {
+          "title": "Bloomberg 2022",
+          "url": "/interview/bloomberg-2022"
+        },
+        {
+          "title": "Aize 2022",
+          "url": "/interview/aize-2022"
+        },
+        {
+          "title": "Google 2022",
+          "url": "/interview/google-2022"
+        },
+        {
+          "title": "Microsoft 2022",
+          "url": "/interview/microsoft-2022"
+        },
+        {
+          "title": "Apple 2022",
+          "url": "/interview/apple-2022"
+        },
+        {
+          "title": "Twitter 2022",
+          "url": "/interview/twitter-2022"
+        }
+      ]
+    }
+  ]
+}
