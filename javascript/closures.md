@@ -51,4 +51,12 @@ for (var i = 0; i < 5; i++) {
     }).bind(null, i)
   , 1000 * i)
 }
+
+// using the let keyword
+
+for (let i = 0; i < 5; i++) {
+  setTimeout(
+    () => console.log(x)
+  , 1000 * i)
+}
 ```
