@@ -9,7 +9,7 @@ constantly trying to catch up with it. Being on top of everything was just impos
 which has made my life smooth. If you are a person like me who travels quite a lot, pays taxes, invests and has a busy life generally, you
 might find this interesting.
 
-## Life
+## Categories of Life
 
 I thought in depth about what life is and where mine was leading to. Asked myself what I really need in life, what truly makes me feel accomplished,
 what truly makes life less mundane, monotonous and worth living every second to the fullest. This is when I came with my life circle diagram.
@@ -38,6 +38,9 @@ I had documents from School, college, scans of ids, bills, statements, rental ag
 
 I uploaded all my old pictures into Google Photos. I do not own a camera. My iphone captures all the necessary memories in my life. The Google photos app then backs up all the pictures into the cloud. This way, I dont have to copy them somewhere because its all backed up in the cloud automatically, I dont lose any pictures either and I can safely delete the pictures on my phone saving valuable space. Whenever I get time, I organize these photos into albums.
 
+## Passwords
+
+
 ## Apps
 
 I realized that we never use our phones to their fullest potential. These are powerful devices with amazing computing powers which can actually do work while you sleep. I mean shouldnt it be possible for your phone to automatically invest in a stock when its low and sell it when it is at its peak? So I set out to divide all my apps into these categories. I can just open one when I need something, plus I have notifications set up which indicate 
@@ -45,3 +48,13 @@ important stuff. For example, the reminders app reminds of important dates. The 
 prompt me to measure my health stats. These are just a few things. Its all there in the palm of my hand. Here is a screenshot of it. 
 
 <img class="img--full-width img--left img--grow" loading="lazy" src='https://github.com/sreeramofficial/blog-posts/blob/master/img/blog/IMG_1116.jpg?raw=true' />
+
+
+## Health
+
+## Finance
+
+## Learning
+  podcasts, audiobooks, reading
+  
+## News
