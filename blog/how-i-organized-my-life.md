@@ -44,6 +44,6 @@ I realized that we never use our phones to their fullest potential. These are po
 important stuff. For example, the reminders app reminds of important dates. The investment apps tell me when I need to sell something. The health apps
 prompt me to measure my health stats. These are just a few things. Its all there in the palm of my hand. Here is a screenshot of it. 
 
-<img class="img--full-width img--left img--grow" loading="lazy" src='https://photos.app.goo.gl/o8Kq4reNwNzDh8TQ8' />
+<img class="img--full-width img--left img--grow" loading="lazy" src='https://github.com/sreeramofficial/blog-posts/blob/master/img/blog/IMG_1116.jpg' />
 
 
