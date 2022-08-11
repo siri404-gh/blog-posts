@@ -21,12 +21,11 @@ Being a web developer meant that a third of my life is spent on the internet. I 
 for various purposes. First thing I did was delete all the unneccessary accounts and move everything to a single one. But the problem with
 this was there were too many emails. There were hundreds of emails everyday from various sources that I had to do something about it so as to not miss the important ones. I started creating email filters for recurring emails into these categories. Each of these categories then have their sub categories. For example, a mail from my bank would go into a folder inside Finance and will not be available in the inbox. This way, I can pick and choose which emails to read and I can take collective action on a specific category of emails.
 
-
-## Apps
+## Apps and Websites
 
 <img class="img--full-width img--left img--grow" loading="lazy" src='https://github.com/sreeramofficial/blog-posts/blob/master/img/blog/IMG_1116.jpg?raw=true' />
 
-I realized that we never use our phones to their fullest potential. These are powerful devices with amazing computing powers which can actually do work while you sleep. I mean shouldnt it be possible for your phone to automatically invest in a stock when its low and sell it when it is at its peak? Arent they smart enough to make these decisions for us without manual interventins? So thats exactly what I set out to do. I divided all my apps into these categories. For example, the reminders app reminds of important dates. The investment apps tell me when I need to sell something. The health apps monitor my heart rates. These are just a few things. Its all there in the palm of my hand. Here is a screenshot of it. 
+I realized that we never use our computers or phones to their fullest potential. These are powerful devices with amazing computing powers which can actually do work while you sleep. If they can mine bit coins, wouldnt it be possible for them to automatically invest in a stock when its low and sell it when it is at its peak? Arent they smart enough to make these decisions for us without manual interventins? So thats exactly what I set out to do. I divided all my apps and websites into these categories. For example, the reminders app reminds of important dates. The investment apps tell me when I need to sell something. The health apps monitor my heart rates. These are just a few things. Its all there in the palm of my hand. Shown here is a screenshot of it. With this, I noticed a 50% drop in my phone usage. Time not spent on the phone is time with family. And more time to pursue my dreams.
 
 
 ## Documents
@@ -40,12 +39,18 @@ I digitized and uploaded all my old pictures into Google Photos. I do not own a 
 ## Passwords
 
 Password management deserves a book of its own. Living in the virtual world, having signed up to a ton of services, remembering passwords was impossible. I initally wrote them all in a place. But that was not very secure. It is the dumbest thing anyone can do. So I came up with a system of creating passwords for websites in such a way I dont have to write them anywhere. It was a combination of a secret keyword, name of the website and a number and character. But that didnt work either. Half of them required changing passwords every now and then. So I tried numbering the passwords incrementing by 1 every time I changed it. This proved to be even more chaotic as now I had to remember their counts. All of a sudden, I had some with my old insecure password, some with the password system, and some I didnt even remember. This is when I truly sat and thought about that to do. Social login to the rescue. If you dont know about Social login, its good to read about their pros and cons. I decided to use it wherever they allowed it. It took precendence over normal passwords. And in websites where they didnt have social login, I would let the browser create a secure password and let a password manager like Google password manager remember it. With chrome settings being synced to me google account, this meant that I didnt have to remember any of my passwords. Chrome did the remembering of the passwords. The problems didnt end there though. Although in my laptop, Chrome acted as the password manager, I was using an iPhone and the passwords there were managed by the keychain. I had to make it use Chrome as the password manager. There are still certain apps which use the Safari webviews. Webviews are basically instances of the native browser inside an app. If you have noticed certain apps to be sluggish, it probably was because they were using webviews in that journey. I still havent figured out a way to change this. Moving to an android device seems to be the only choice as of today.
+Also, I have enabled 2 factor authentication wherever necessary. Additional security.
 
 ## Health
 
+I have a fitbit device capturing all my health matrics and relaying them onto Google Health and Apple Health. They constantly monitor my health and indicate me of any drop in values. I also use Babylon Digital GP which gives me access to a GP on the same day. That is golden. I have apps monitoring my stress levels, water levels and nutrition. Still a long way to go to fine tune them but its amazing how much help is available through apps. You could argue that I am giving away vital personal information about myself to the developers of the apps. I think I get more benefits of doing that than not. Being a developer, I have a reasonable idea on how to spot fraudulent activity.
+
 ## Finance
 
+Living in India, Germany and the UK, I had a lot of accounts with various banks. Some major high street banks and some digital. Managing them was difficult. Moving money from one place to the other as I moved was a pain. There were a lot of factors involved. Its my firm belief that one day, there will be a universal bank account which doesnt charge a hefty conversion fee. I guess bitcoin is the only way to achieve that. Until then I have a folder where I put all the apps and can manage them easily.
+
+I have investments in all the 3 countries too. Some things like the EPF in India were not digitized until very recently. There was no way to check what my contributions were. These fell through the cracks. I had to unify them. The ruling party in India did a decent job of digitizing everything. With handsets and cheap internet, India is surely on the right track to enabling the masses financial freedom. Kudos India. UK is far superior in this area. Apps like Plum can automatically and systematically invest in funds regularly.
+
 ## Learning
-  podcasts, audiobooks, reading
   
 ## News
