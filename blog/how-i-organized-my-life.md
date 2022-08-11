@@ -24,9 +24,10 @@ this was there were too many emails. There were hundreds of emails everyday from
 
 ## Apps
 
+<img class="img--full-width img--left img--grow" loading="lazy" src='https://github.com/sreeramofficial/blog-posts/blob/master/img/blog/IMG_1116.jpg?raw=true' />
+
 I realized that we never use our phones to their fullest potential. These are powerful devices with amazing computing powers which can actually do work while you sleep. I mean shouldnt it be possible for your phone to automatically invest in a stock when its low and sell it when it is at its peak? Arent they smart enough to make these decisions for us without manual interventins? So thats exactly what I set out to do. I divided all my apps into these categories. For example, the reminders app reminds of important dates. The investment apps tell me when I need to sell something. The health apps monitor my heart rates. These are just a few things. Its all there in the palm of my hand. Here is a screenshot of it. 
 
-<img class="img--full-width img--left img--grow" loading="lazy" src='https://github.com/sreeramofficial/blog-posts/blob/master/img/blog/IMG_1116.jpg?raw=true' />
 
 ## Documents
 
