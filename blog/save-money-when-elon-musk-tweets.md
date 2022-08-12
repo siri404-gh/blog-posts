@@ -4,7 +4,7 @@
 
 &nbsp;
 
-So the other day I was looking at various ways to save or invest my money. The energy crisis, recession and soaring cost of living pushed me to think of ways I could save up. I looked at ISAs, properties, stock markets, forex and what not. They all involved a considerable amount of risk, and so I thought in depth about money and about life in general.
+So the other day I was looking at various ways to save or invest my money. The energy crisis, recession, inflation and soaring cost of living pushed me to think of ways I could save up. I looked at ISAs, properties, stock markets, forex and what not. They all involved a considerable amount of risk, and so I thought in depth about money and about life in general.
 
 Coincidentially that day, Elon Musk was on a tweeting spree. I got about 13 tweets back to back from him and thats when I began to wonder how much money I'd save if I saved a pound for every one of his tweet. Thats when this idea dawned on me and I created this smart applet using IFTTT which did exactly that. It basically connects to your twitter and automatically moves a pound to a pot of your choice every time it detects a tweet from Elon Musk. Now, he tweets at a rate of 7/day. Thats £2,555 saved in a year. You can customize the amount if you feel its hitting your wallet in a bad way.
 
