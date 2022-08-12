@@ -14,4 +14,6 @@ And so last month, I saved about £300. It gave me an illusionary sense having m
 
 Here is the link to the applet. https://ifttt.com/applets/eYDHXqz7-save-money-every-time-elonmusk-tweets
 
+There are also other interesting applets like the 1p savings challenge which saves 1p on the first day and increments the amount by 1p until the end of the year by which time you'll have made about £1600.
+
 Note: Your capital is at risk if you forget that the money is in a pot and I will not be liable of that.
