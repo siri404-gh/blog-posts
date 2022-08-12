@@ -49,8 +49,16 @@ I have a fitbit device capturing all my health matrics and relaying them onto Go
 
 Living in India, Germany and the UK, I had a lot of accounts with various banks. Some major high street banks and some digital. Managing them was difficult. Moving money from one place to the other as I moved was a pain. There were a lot of factors involved. Its my firm belief that one day, there will be a universal bank account which doesnt charge a hefty conversion fee. I guess bitcoin is the only way to achieve that. Until then I have a folder where I put all the apps and can manage them easily.
 
-I have investments in all the 3 countries too. Some things like the EPF in India were not digitized until very recently. There was no way to check what my contributions were. These fell through the cracks. I had to unify them. The ruling party in India did a decent job of digitizing everything. With handsets and cheap internet, India is surely on the right track to enabling the masses financial freedom. Kudos India. UK is far superior in this area. Apps like Plum can automatically and systematically invest in funds regularly.
+I have investments in all the 3 countries too. Some things like the EPF in India were not digitized until very recently. There was no way to check what my contributions were. These fell through the cracks. I had to unify them. The ruling party in India did a decent job of digitizing everything. With handsets and cheap internet, India is surely on the right track to enabling the masses financial freedom. 
+
+The UK is far superior in this area. Apps like Plum, Monzo and IFTTT can do certain smart things I explain below.
+
+With Monzo, I can create pots where I can put savings. I can round up spendings to the nearest pound. Although not much, it can add up quite quickly. I also use IFTTT to automatically move money from the main pot to the savings pot when certain things occur. Its pretty crazy what it can do. For example, I have set it to automatically move money when Elon Musk Tweets. Saved a couple of hundred quick last month. Pretty cool.
+
+With Plum, I invest into stocks and funds. They have other cool features which help you save more and intelligently.
 
 ## Learning
+
+Learning can be divided into 3. Reading, Listening and Writing
   
 ## News
