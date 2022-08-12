@@ -14,4 +14,4 @@ And so last month, I saved about £300. It gave me an illusionary sense having m
 
 Here is the link to the applet. https://ifttt.com/applets/eYDHXqz7-save-money-every-time-elonmusk-tweets
 
-Note: Your capital is at risk if you forget that the money is in a pot and I will not be taking any liability of that.
+Note: Your capital is at risk if you forget that the money is in a pot and I will not be liable of that.
