@@ -1,4 +1,4 @@
-# How I saved a small fortune thanks to Elon Musk
+# How I made a small fortune thanks to Elon Musk
 
 #### 13 Aug 2022
 
