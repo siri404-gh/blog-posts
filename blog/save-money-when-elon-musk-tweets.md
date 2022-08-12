@@ -4,16 +4,16 @@
 
 &nbsp;
 
-So the other day I was looking at varius ways to save money thanks to the Energy crisis 
-we are in. Coincidentially that day, Elon Musk was on a tweeting spree. I got about 13 tweets back to back from him and 
-wondered how much money I'd save if I saved a pound for every one of his tweet.
+So the other day I was looking at various ways to save or invest my money. The energy crisis, recession and soaring cost of living pushed me to think of ways I could save up. I looked at ISAs, properties, stock markets, forex and what not. They all involved a considerable amount of risk, and so I thought in depth about money and about life in general.
 
-Thats when this idea dawned to me and I created this smart applet. It basically connects to your twitter and automatically moves a pound to a pot of your choice every time it detects a tweet from Elon Musk. 1 pound can be quite a lot considering he tweets at a rate of 7/day. You can customize the amount.
+Coincidentially that day, Elon Musk was on a tweeting spree. I got about 13 tweets back to back from him and thats when I began to wonder how much money I'd save if I saved a pound for every one of his tweet. Thats when this idea dawned on me and I created this smart applet using IFTTT which did exactly that. It basically connects to your twitter and automatically moves a pound to a pot of your choice every time it detects a tweet from Elon Musk. Now, he tweets at a rate of 7/day. Thats £2,555 saved in a year. You can customize the amount if you feel its hitting your wallet in a bad way.
 
-And so last month, I saved about £300. It gave me an illusionary sense having made 300 pounds even though it was my own money. This is because it was all automated. I never noticed the money being moved. I didnt notice any obvious change in my lifestyle either. I hid the pot from the main view when I created it and forgot about it. I adjusted my life unknowlingly according to my bank balance. The end result was a few hundred quid extra to spend at the end of the month. Thats almost like money made if you think about it.
+## Saving money is equal to making money
 
-Here is the link to the applet. https://ifttt.com/applets/eYDHXqz7-save-money-every-time-elonmusk-tweets
+And so last month, I made about £300. I say I 'made' as opposed to 'saved' because its in the way you think about it. If you save money regularly by moving to a pot, its regular savings. You are aware of how much you set aside and how much less you have to spend. But what if these transfers were silent, without your knowledge, automatic and what if they just got deposited at the end of the month or year or after long time?
 
-There are also other interesting applets like the 1p savings challenge which saves 1p on the first day and increments the amount by 1p until the end of the year by which time you'll have made about £1600.
+Because they were tiny amounts and because I never noticed the money being moved, I didnt notice any obvious change in my life. I hid the pot from the main view in the app when I created it and forgot about it. Life just adjusted itself in line with the bank balance and it was barely noticable. Of course if he tweets too much, the illusion would fade away because then it starts affecting your lifestyle. I realized the trick is to fine tune it to an extent I dont notice that money being set aside, then it would be equal to having 'made' that money. The end result for me was a few hundred quid extra to spend at the end of the month. Thats infinite return to investment. Of course you could invest this money somewhere and make more out of it, but Capital is at risk. The point I am making is saving or making money is in how we think about it.
+
+Here is the link to the applet. https://ifttt.com/applets/eYDHXqz7-save-money-every-time-elonmusk-tweets. There are also other interesting applets like the 1p savings challenge which saves 1p on the first day and increments the amount by 1p until the end of the year by which time you'll have made about £1600.
 
 Note: Your capital is at risk if you forget that the money is in a pot and I will not be liable of that.
