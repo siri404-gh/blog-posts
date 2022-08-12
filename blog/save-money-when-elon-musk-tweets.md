@@ -2,6 +2,8 @@
 
 #### 13 Aug 2022
 
+&nbsp;
+
 So the other day I was looking at varius ways to save money thanks to the Energy crisis 
 we are in. Coincidentially that day, Elon Musk was on a tweeting spree. I got about 13 tweets back to back from him and 
 wondered how much money I'd save if I saved a pound for every one of his tweet.
