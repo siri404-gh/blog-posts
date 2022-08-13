@@ -73,7 +73,7 @@ With Plum, I invest into stocks and funds. They have other cool features which h
 
 ## Health
 
-I have a fitbit device capturing all my health matrics and relaying them onto Google Health and Apple Health. They constantly monitor my health and indicate me of any drop in values. I also use Babylon Digital GP which gives me access to a GP on the same day. That is golden. I have apps monitoring my stress levels, water levels and nutrition. Still a long way to go to fine tune them but its amazing how much help is available through apps. You could argue that I am giving away vital personal information about myself to the developers of the apps. I think I get more benefits of doing that than not. Being a developer, I have a reasonable idea on how to spot fraudulent activity.
+I have a fitbit device capturing all my health matrics and relaying them onto Google Health and Apple Health. They constantly monitor my health and indicate me of any drop in values. I also use Babylon Digital GP which gives me access to a GP on the same day. That is golden. I have apps monitoring my stress levels, water levels and nutrition. Still a long way to go to fine tune them but its amazing how much help is available through apps. You could argue that I am giving away vital personal information about myself to the developers of the apps. I think I get more benefits of doing that than not. Being a developer, I have a reasonable idea on how to spot fraudulent activity. I also have gym subscriptions. I hit the gym regularly. Swim ocassionally. I medidate and do yoga from time to time.
 
 ## Travel
 
