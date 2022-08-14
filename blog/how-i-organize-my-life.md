@@ -91,7 +91,7 @@ With all of the money coming and going, filing tax returns becomes crucial. This
 
 I have a fitbit device capturing all my health matrics and relaying them onto Google Health and Apple Health. They constantly monitor my health and indicate me of any drop in values. I measure my sleep as well because I spend a third of my life sleeping. I have apps monitoring my stress levels, water levels and nutrition. Still a long way to go to fine tune them but its amazing how much help is available through apps. You could argue that I am giving away vital personal information about myself to the developers of the apps. I think I get more benefits of doing that than not. 
 
-## GP 
+### GP 
 
 In the UK, I use Babylon Digital GP which gives me access to a GP through video on the same day. That is golden. 
 
