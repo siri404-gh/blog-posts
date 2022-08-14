@@ -56,11 +56,7 @@ I keep moving houses. Every house comes with a lot of contractual obligations, d
 
 ## Career
 
-### Interviews
-
 Every interview I attend, there is a folder in Google Drive where I save all the questions I faced. When you attend a lot of interviews, you start seeing a pattern. They all ask the same questions. And you are prepared more and more each time. This is why interviews are one of the best ways to  learn professionally and inter-personally. They hone your response to regular questions.
-
-### Learning
 
 I use a lot of resources to learn. Learning involves reading, writing and listening. 
 
@@ -73,33 +69,19 @@ Lastly, I try to learn from the work I do. I cant stress enough on the importanc
 
 ## Finance
 
-### Bank accounts
-
 Living in India, Germany and the UK, I had a lot of accounts with various banks. Some major high street banks and some digital. Managing them was difficult. Moving money from one place to the other as I moved was a pain. There were a lot of factors involved. Its my firm belief that one day, there will be a universal bank account which doesnt charge a hefty conversion fee. I guess bitcoin is the only way to achieve that. Until then I have a folder where I put all the apps and can manage them easily.
 
-### Investments
-
 I have investments in all the 3 countries too. Some things like the EPF in India were not digitized until very recently. There was no way to check what my contributions were. These fell through the cracks. I had to unify them. The ruling party in India did a decent job of digitizing everything. With handsets and cheap internet, India is surely on the right track to enabling the masses financial freedom. The UK is far superior in this area. Apps like Plum, Monzo and IFTTT can do certain smart things I explain below. With Monzo, I can create pots where I can put savings. I can round up spendings to the nearest pound and save the change into the pot. For example, If I spend £2.50 for coffee, the change of £0.50 goes to the pot. Although not much, it can add up quite quickly. I also use IFTTT to automatically move money from the main pot to the savings pot when certain events happen. Its pretty crazy what it can do. For example, I have set it to automatically move money to the pot when Elon Musk Tweets. This saved me a couple of hundred quids last month. Its pretty cool. With Plum, Freetrade and eToro, I invest into stocks and funds. They have other cool features which help you save more and intelligently.
-
-### Taxes
 
 With all of the money coming and going, filing tax returns becomes crucial. This has been the most cumbersome thing I have ever done when it comes to my finances. The due dates for filing tax returns vary from country to country. Their names, languages, rules and rates vary. Its unbelievably painful a process to complete. I have never invested in a tax advisor. Maybe worth looking into.
 
 ## Health
 
-### Devices
-
 I have a fitbit device capturing all my health matrics and relaying them onto Google Health and Apple Health. They constantly monitor my health and indicate me of any drop in values. I measure my sleep as well because I spend a third of my life sleeping. I have apps monitoring my stress levels, water levels and nutrition. Still a long way to go to fine tune them but its amazing how much help is available through apps. You could argue that I am giving away vital personal information about myself to the developers of the apps. I think I get more benefits of doing that than not. 
-
-### GP 
 
 In the UK, I use Babylon Digital GP which gives me access to a GP through video on the same day. That is golden. 
 
-### Gym and Sports
-
 I hit the gym regularly. I also play a lot of sports - Tennis, Cricket, Swimming and Badmintion. 
-
-### Mindfulness
 
 I medidate and do yoga from time to time. Meditation and Yoga is yet another investment advice I'd give anybody.
 
@@ -107,11 +89,11 @@ I medidate and do yoga from time to time. Meditation and Yoga is yet another inv
 
 Having moved quite a lot, I needed a way to organize my tickets, visa applications, scans of documents etc. I use Google Drive for this. Lets take a Flight ticket to London for example. In the olden days, I would print it, print the boarding pass, keep it somewhere so I wouldnt lose it and chaos ensues on the day of travel. With Google drive, once I buy the ticket, I create a folder called 'London Trip 2022' in the travel folder. I then upload the ticket and the boarding pass into the drive. It gets synced to my laptop and phone automatically. All in all, no copying, no hard disk space required and no losing or misplacing tickets and no worrying about where I kept it. To me, that was a big win. The days of having to use the flash drive are over.
 
-## Entertainment, Family
+## Entertainment, Friends & Family
 
-All of the remaining time is for entertainment and my family.
+All of the remaining time is for entertainment, family and friends.
 
-All this might sound simple. But trust me they werent. I am still fine tuning many things. But the heavy lifting has been done. I live a clutter free life now and that is invaluable to me. I have become a productivity and time management freak, but thats how data driven I had to be to be where I am today and this is my open secret.
+All this might sound simple. But trust me they werent. I started this in 2016 and took me 6 years to iterate and reach this point. But the heavy lifting has been done. I have become a productivity and time management freak, but thats how data driven I had to be to be where I am today and I live a clutter-free life now and that is invaluable to me. And this is my open secret.
 
 &nbsp;
 
