@@ -46,8 +46,6 @@ Social login to the rescue. If you dont know about Social login, its good to rea
 
 The problems didnt end there though. Although in my laptop, Chrome acted as the password manager, I was using an iPhone and the passwords there were managed by the Apple keychain. I had to manually make it use Chrome as the password manager. There are still certain apps which use the Safari webviews. Webviews are basically instances of the native browser inside an app. If you have noticed certain apps to be sluggish, it probably was because they were using webviews in that journey. I still havent figured out a way to change this. Moving to an android device seems to be the only choice as of today.
 
-Also, another security feature I have enabled wherever necessary is the two-factor authentication. Additional security.
-
 With all the little things organised, lets look at how it affected each of the categories of life.
 
 ## Accommodation
@@ -58,9 +56,7 @@ I keep moving houses. Every house comes with a lot of contractual obligations, d
 
 Every interview I attend, there is a folder in Google Drive where I save all the questions I faced. When you attend a lot of interviews, you start seeing a pattern. They all ask the same questions. And you are prepared more and more each time. This is why interviews are one of the best ways to  learn professionally and inter-personally. They hone your response to regular questions.
 
-I use a lot of resources to learn. Learning involves reading, writing and listening. 
-
-I regularly read news articles, blogs and e-books. Some apps worth mentioning here are Reddit and Quora. Reddit especially has a lot of raw knowledge. Quora has become more of a propoganda tool these days. You have to filter out the good from the bad. 
+I use a lot of resources to learn. Learning to me involves reading, writing and listening. I regularly read news articles, blogs and e-books. Some apps worth mentioning here are Reddit and Quora. Reddit especially has a lot of raw knowledge. Quora has become more of a propoganda tool these days. You have to filter out the good from the bad. 
 I have a plethora of news app subscriptions. It is very important to choose the right ones when it comes to News. Reading from a few sources is very important as each one comes with its own propaganda. But its worth it if you have a need to be on top of whats happening in the country you are in.
 I listen, mostly to podcasts and audiobooks. Tech podcasts, life podcasts, investment podcats mostly. Spotify and Audible are worth mentioning in this area. I listen to them when I have the time. I listen to them when I am not doing particularly anything, like when travelling in the tube for example.
 I also write. Mostly here in this website, or some times writing quora answers.
@@ -71,7 +67,7 @@ Lastly, I try to learn from the work I do. I cant stress enough on the importanc
 
 Living in India, Germany and the UK, I had a lot of accounts with various banks. Some major high street banks and some digital. Managing them was difficult. Moving money from one place to the other as I moved was a pain. There were a lot of factors involved. Its my firm belief that one day, there will be a universal bank account which doesnt charge a hefty conversion fee. I guess bitcoin is the only way to achieve that. Until then I have a folder where I put all the apps and can manage them easily.
 
-I have investments in all the 3 countries too. Some things like the EPF in India were not digitized until very recently. There was no way to check what my contributions were. These fell through the cracks. I had to unify them. The ruling party in India did a decent job of digitizing everything. With handsets and cheap internet, India is surely on the right track to enabling the masses financial freedom. The UK is far superior in this area. Apps like Plum, Monzo and IFTTT can do certain smart things I explain below. With Monzo, I can create pots where I can put savings. I can round up spendings to the nearest pound and save the change into the pot. For example, If I spend £2.50 for coffee, the change of £0.50 goes to the pot. Although not much, it can add up quite quickly. I also use IFTTT to automatically move money from the main pot to the savings pot when certain events happen. Its pretty crazy what it can do. For example, I have set it to automatically move money to the pot when Elon Musk Tweets. This saved me a couple of hundred quids last month. Its pretty cool. With Plum, Freetrade and eToro, I invest into stocks and funds. They have other cool features which help you save more and intelligently.
+I have investments in all the 3 countries too. Some things like the EPF in India were not digitized until very recently. There was no way to check what my contributions were. These fell through the cracks. I had to unify them. The ruling party in India did a decent job of digitizing everything. With handsets and cheap internet, India is surely on the right track to enabling the masses financial freedom. The UK is far superior in this area. Apps like Plum, Monzo and IFTTT can do certain smart things I explain below. With Monzo, I can create pots where I can put savings. I can round up spendings to the nearest pound and save the change into the pot. For example, If I spend £2.50 for coffee, the change of £0.50 goes to the pot. Although not much, it can add up quite quickly. I also use IFTTT to automatically move money from the main pot to the savings pot when certain events happen. Its pretty crazy what it can do. For example, I have set it to automatically move money to the pot when Elon Musk Tweets. I have also set it to save a pound when it rains, when its too hot or snowy. This saves me a couple of hundred quids every month and its pretty cool. With Plum, Freetrade and eToro, I invest into stocks and funds. They have other cool features which help you save more and intelligently.
 
 With all of the money coming and going, filing tax returns becomes crucial. This has been the most cumbersome thing I have ever done when it comes to my finances. The due dates for filing tax returns vary from country to country. Their names, languages, rules and rates vary. Its unbelievably painful a process to complete. I have never invested in a tax advisor. Maybe worth looking into.
 
@@ -79,11 +75,7 @@ With all of the money coming and going, filing tax returns becomes crucial. This
 
 I have a fitbit device capturing all my health matrics and relaying them onto Google Health and Apple Health. They constantly monitor my health and indicate me of any drop in values. I measure my sleep as well because I spend a third of my life sleeping. I have apps monitoring my stress levels, water levels and nutrition. Still a long way to go to fine tune them but its amazing how much help is available through apps. You could argue that I am giving away vital personal information about myself to the developers of the apps. I think I get more benefits of doing that than not. 
 
-In the UK, I use Babylon Digital GP which gives me access to a GP through video on the same day. That is golden. 
-
-I hit the gym regularly. I also play a lot of sports - Tennis, Cricket, Swimming and Badmintion. 
-
-I medidate and do yoga from time to time. Meditation and Yoga is yet another investment advice I'd give anybody.
+In the UK, I use Babylon Digital GP which gives me access to a GP through video on the same day. That is golden. I hit the gym regularly. I also play a lot of sports - Tennis, Cricket, Swimming and Badmintion. I medidate and do yoga from time to time. Meditation and Yoga is yet another investment advice I'd give anybody.
 
 ## Travel
 
