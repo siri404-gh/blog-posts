@@ -111,7 +111,7 @@ Having moved quite a lot, I needed a way to organize my tickets, visa applicatio
 
 All of the remaining time is for entertainment and my family.
 
-All this might sound simple. But trust me they werent. I am still fine tuning many things. But the heavy lifting has been done. I live a clutter free life now and that is invaluable to me. I have become a productivity and time management freak, but thats how data driven I had to be to be where I am today.
+All this might sound simple. But trust me they werent. I am still fine tuning many things. But the heavy lifting has been done. I live a clutter free life now and that is invaluable to me. I have become a productivity and time management freak, but thats how data driven I had to be to be where I am today and this is my open secret.
 
 &nbsp;
 
