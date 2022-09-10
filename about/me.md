@@ -4,7 +4,7 @@
 
 <br />
 
-Hi there! I am Sreeram. I am a Frontend Engineer working for Bumble Inc in London, UK. 
+Hi there! I am Siri. I am a Frontend Engineer working for Bumble Inc in London, UK. 
 
 I hail from India from the beautiful city of [Thiruvananthapuram](https://en.wikipedia.org/wiki/Thiruvananthapuram) in coastal [Kerala](https://en.wikipedia.org/wiki/Kerala) 🌴 in India 🇮🇳. Ever since 2011, my job has taken me around the world to work for some great organisations amongst some of the best minds in the world. I have also lived in Europe 🇪🇺 (mostly Germany 🇩🇪) for a couple of years.
 
