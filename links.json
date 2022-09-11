@@ -38,6 +38,10 @@
         {
           "title": "StackOverflow",
           "url": "/stats/stackoverflow"
+        },
+        {
+          "title": "Github",
+          "url": "/stats/github"
         }
       ]
     }
