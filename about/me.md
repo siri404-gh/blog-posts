@@ -14,4 +14,4 @@ Outside of work, I travel regularly and have so far been to about 15 countries i
 
 Reach out to me for career advice or personal advice or even joining one of my online classes about web programming. Connect with me on [Linkedin](https://linkedin.sreeram.io/) about that.
 
-![](https://github-readme-stats.vercel.app/api?username=sreeramofficial&show_icons=true&theme=dark&count_private=true)
+<!--![](https://github-readme-stats.vercel.app/api?username=sreeramofficial&show_icons=true&count_private=true)-->
