@@ -13,6 +13,6 @@ Outside of work, I travel 🌍 regularly and have so far been to about 15 countr
 ## Contact me
 
 Reach out to me on [Linkedin](https://linkedin.sreeram.io/) for career advice or personal advice or even joining one of my online classes about web programming.
-Head to my [Twitter](https://twitter.sreeram.io/) page to see my 100 life rules to live by, my [Instagram](https://instagram.sreeram.io) for my life in pictures and https://medium.sreeram.io/ for my writings.
+Head to my [Twitter](https://twitter.sreeram.io/) page to see my 100 life rules to live by, my [Instagram](https://instagram.sreeram.io) for my life in pictures and [Medium](https://medium.sreeram.io/) for my writings.
 
 <!--![](https://github-readme-stats.vercel.app/api?username=sreeramofficial&show_icons=true&count_private=true)-->
