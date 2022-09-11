@@ -29,21 +29,6 @@
           "url": "/blog/my-experience-of-moving-out-of-germany"
         }
       ]
-    },
-    {
-      "title": "Stats",
-      "url": "/stats",
-      "icon": "stats",
-      "links": [
-        {
-          "title": "StackOverflow",
-          "url": "/stats/stackoverflow"
-        },
-        {
-          "title": "Github",
-          "url": "/stats/github"
-        }
-      ]
     }
   ]
 }
