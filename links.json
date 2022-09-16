@@ -29,6 +29,17 @@
           "url": "/blog/my-experience-of-moving-out-of-germany"
         }
       ]
+    },
+    {
+      "title": "Javascript",
+      "url": "/javascript",
+      "icon": "javascript",
+      "links": [
+        {
+          "title": "Arguments",
+          "url": "/javascript/arguments"
+        },
+      ]
     }
   ]
 }
