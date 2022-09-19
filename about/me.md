@@ -4,7 +4,7 @@
 
 &nbsp;
 
-Hey! I am Siri 🚀. I am a 💻 Frontend Engineer working for 💛 Bumble Inc in London, UK 🇬🇧. I hail from India 🇮🇳 from the beautiful evergreen city of [Thiruvananthapuram](https://en.wikipedia.org/wiki/Thiruvananthapuram)🌴, a city in coastal Kerala. Ever since 2011, my job has taken me around the world to work for some great organisations amongst some of the best minds in the world thanks to the passion I found with web technologies.
+Hey! I am Siri 🚀. I am a 💻 Frontend Engineer working for 💛 Bumble Inc in London, UK 🇬🇧. I hail from India 🇮🇳 from the beautiful evergreen city of Thiruvananthapuram 🌴, a city in coastal Kerala. Ever since 2011, my job has taken me around the world to work for some great organisations amongst some of the best minds in the world thanks to the passion I found with web technologies.
 
 At Bumble, I work in the Design Systems team where we create and maintain all the design elements in the app used by about 500 million users, its website and all the mighty architecture around it.
 
